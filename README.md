@@ -93,12 +93,3 @@ Com o apoio do Instituto Vai na Web e Plataform Impact
 Este projeto busca reduzir a barreira de entrada para práticas de segurança, promovendo o uso de ferramentas acessíveis em contextos que historicamente não contam com estruturas caras ou sofisticadas.
 
 Queremos ver mais empresas protegidas, mais profissionais preparados e mais histórias de sucesso documentadas.
-
----
-
-Se quiser, posso:
-- Criar o `CONTRIBUTING.md` com regras de contribuição
-- Gerar o `Dockerfile` e `docker-compose.yml`
-- Subir um repositório inicial com essa estrutura
-
-Quer que eu prepare esse repositório todo já com base nesse README?
