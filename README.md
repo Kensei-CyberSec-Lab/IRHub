@@ -41,10 +41,11 @@ Com ele, empresas e times técnicos podem:
 
 ## Tecnologias utilizadas
 
-- **Frontend:** React + TailwindCSS
-- **Backend:** Node.js + Express
-- **Banco de dados:** SQLite (ou PostgreSQL)
+- **Frontend:** Angular
+- **Backend:** Java + SpringBoot
+- **Banco de dados:** PostgreSQL
 - **Deploy:** Docker + Docker Compose
+- **Auth:** Magic Link + Keycloak
 
 ---
 
